@@ -11,11 +11,13 @@ This solution follows the Page Object Model (POM) testing method, providing a we
 In this folder you will find a subfolder named "Pages" and a class named "TestCases".
 
 - Pages
-    Within this folder is located the HomePage class which includes essential locators and methods that are used according to the testing task.This approach facilitates seamless navigation and provides a great testing environment.
+
+Within this folder is located the HomePage class which includes essential locators and methods that are used according to the testing task.This approach facilitates seamless navigation and provides a great testing environment.
     
 
 - Test Cases
-    The "Test Cases" class includes the test for the given task named "IFrame_Editing_Text". This test class utilizes a method from the HomePage class and it ensures readability and produces accurate results.
+
+The "Test Cases" class includes the test for the given task named "IFrame_Editing_Text". This test class utilizes a method from the HomePage class and it ensures readability and produces accurate results.
 
 
 ## Raiffeisen_TA_Problem1_version2
